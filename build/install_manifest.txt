@@ -1,0 +1,13 @@
+/home/sebastijan/catkin_ws/install/_setup_util.py
+/home/sebastijan/catkin_ws/install/env.sh
+/home/sebastijan/catkin_ws/install/setup.bash
+/home/sebastijan/catkin_ws/install/local_setup.bash
+/home/sebastijan/catkin_ws/install/setup.sh
+/home/sebastijan/catkin_ws/install/local_setup.sh
+/home/sebastijan/catkin_ws/install/setup.zsh
+/home/sebastijan/catkin_ws/install/local_setup.zsh
+/home/sebastijan/catkin_ws/install/.rosinstall
+/home/sebastijan/catkin_ws/install/lib/pkgconfig/hw1.pc
+/home/sebastijan/catkin_ws/install/share/hw1/cmake/hw1Config.cmake
+/home/sebastijan/catkin_ws/install/share/hw1/cmake/hw1Config-version.cmake
+/home/sebastijan/catkin_ws/install/share/hw1/package.xml
